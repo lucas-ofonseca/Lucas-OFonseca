@@ -14,6 +14,7 @@
   <img align="center" alt="JavaScript Lucas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Bootstrap Lucas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Node.js Lucas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
+  <img align="center" alt="Python Lucas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
   
   <img align="right" alt="GIF" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/11ISwbgCxEzMyY/giphy.gif?cid=ecf05e47g8vpax2hfqmmclgxe243tsddm83t0ibjlc9gajeb&rid=giphy.gif&ct=g"/>
 </div>
