@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=300&size=22&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+things+for+the+web." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=300&size=22&pause=1000&color=6B7280&center=true&vCenter=true&width=600&lines=Data-driven+Inventory+Analyst;Full+Stack+Developer;Turning+data+into+decisions." alt="Typing SVG" />
 
 </div>
 
@@ -9,15 +8,27 @@
 
 ### Hi, I'm Lucas 👋
 
-Full Stack Developer passionate about building clean, scalable web applications — from intuitive interfaces to solid back-end architectures.
+Inventory & Process Analyst transitioning into Data & Software Engineering.  
+I combine real-world operational experience with technology to automate processes, analyze data and generate business insights.
 
-- 🔭 Currently working on personal and university projects
-- 🌱 Always learning and exploring new technologies
-- 💬 Let's exchange ideas
+---
+
+### 💡 What I Do
+
+- 📦 Analyze and improve inventory processes using data  
+- ⚙️ Build automation tools to reduce manual work  
+- 📊 Transform spreadsheets into actionable insights  
+- 🧠 Combine business knowledge with technology  
 
 ---
 
 ### 🛠 Tech Stack
+
+**Data & Analytics**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 **Frontend**
 
@@ -40,7 +51,21 @@ Full Stack Developer passionate about building clean, scalable web applications 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+- 📈 **Excel Data Analyzer (ETL)**  
+  Pipeline to extract, clean and consolidate multiple spreadsheets into structured datasets.
+
+- 📦 **Inventory Insights Dashboard**  
+  Power BI dashboard to track stock accuracy and identify root causes of divergences.
+
+- ⚙️ **Process Automation Scripts**  
+  VBA scripts to eliminate repetitive tasks and improve operational efficiency.
 
 ---
 
@@ -62,6 +87,13 @@ Full Stack Developer passionate about building clean, scalable web applications 
 
 ---
 
+### 🌍 Languages
+
+- Portuguese (Native)  
+- English (Intermediate/Advanced)  
+
+---
+
 ### 📬 Let's Connect
 
 <a href="https://www.linkedin.com/in/lucas-ofonseca/" target="_blank">
@@ -75,5 +107,5 @@ Full Stack Developer passionate about building clean, scalable web applications 
 ---
 
 <div align="center">
-  <sub>Made with 🤍 by Lucas Fonseca</sub>
+  <sub>Turning data into decisions 📊</sub>
 </div>
