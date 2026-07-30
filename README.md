@@ -8,7 +8,7 @@
 
 ### Hi, I'm Lucas 👋
 
-Inventory & Process Analyst transitioning into Data & Software Engineering.  
+Inventory & Process Analyst And Data & Software Engineering.  
 I combine real-world operational experience with technology to automate processes, analyze data and generate business insights.
 
 ---
@@ -57,9 +57,6 @@ I combine real-world operational experience with technology to automate processe
 ---
 
 ### 🚀 Featured Projects
-
-- 📈 **Excel Data Analyzer (ETL)**  
-  Pipeline to extract, clean and consolidate multiple spreadsheets into structured datasets.
 
 - 📦 **Inventory Insights Dashboard**  
   Power BI dashboard to track stock accuracy and identify root causes of divergences.
