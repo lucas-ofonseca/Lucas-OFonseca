@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=300&size=22&pause=1000&color=6B7280&center=true&vCenter=true&width=600&lines=Data-driven+Inventory+Analyst;Full+Stack+Developer;Turning+data+into+decisions." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=300&size=22&pause=1000&color=6B7280&center=true&vCenter=true&width=600&lines=Data-driven+Analyst;Full+Stack+Developer;Turning+data+into+decisions." alt="Typing SVG" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ### Hi, I'm Lucas 👋
 
-Inventory & Process Analyst And Data & Software Engineering.  
+Data & Software Engineering.  
 I combine real-world operational experience with technology to automate processes, analyze data and generate business insights.
 
 ---
