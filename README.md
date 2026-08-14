@@ -76,9 +76,9 @@ I combine real-world operational experience (like internal controls, SOX audit, 
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=lucas-ofonseca&show_icons=true&theme=default&hide_border=true&title_color=111827&icon_color=6B7280&text_color=374151&bg_color=ffffff" />
+<img height="150" src="https://github-stats-extended.vercel.app/api?username=lucas-ofonseca&show_icons=true&theme=default&hide_border=true&title_color=111827&icon_color=6B7280&text_color=374151&bg_color=ffffff" />
 &nbsp;&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ofonseca&layout=compact&theme=default&hide_border=true&title_color=111827&text_color=374151&bg_color=ffffff" />
+<img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucas-ofonseca&layout=compact&theme=default&hide_border=true&title_color=111827&text_color=374151&bg_color=ffffff" />
 
 </div>
 
