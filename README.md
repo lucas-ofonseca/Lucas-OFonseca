@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=300&size=22&pause=1000&color=6B7280&center=true&vCenter=true&width=600&lines=Data-driven+Analyst;Full+Stack+Developer;Turning+data+into+decisions." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=300&size=22&pause=1000&color=6B7280&center=true&vCenter=true&width=600&lines=Data+%26+Systems+Analyst;Full+Stack+Developer;Connecting+data%2C+tech+%26+operations." alt="Typing SVG" />
 
 </div>
 
@@ -8,25 +8,26 @@
 
 ### Hi, I'm Lucas 👋
 
-Data & Software Engineering.  
-I combine real-world operational experience with technology to automate processes, analyze data and generate business insights.
+**Data, Systems & Control Analyst**  
+I combine real-world operational experience (like internal controls, SOX audit, and inventory) with full stack development to build solutions that unite governance, data, and technology. Currently studying Information Systems at PUC-MG.
 
 ---
 
 ### 💡 What I Do
 
-- 📦 Analyze and improve inventory processes using data  
-- ⚙️ Build automation tools to reduce manual work  
-- 📊 Transform spreadsheets into actionable insights  
-- 🧠 Combine business knowledge with technology  
+- 📦 Analyze and optimize inventory processes and internal controls  
+- ⚙️ Build full-stack applications and automation tools to reduce manual work  
+- 📊 Develop data models and machine learning pipelines (e.g., recommendation systems)  
+- 🧠 Combine business operations with technology for data-driven decisions  
 
 ---
 
 ### 🛠 Tech Stack
 
-**Data & Analytics**
+**Data & Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
@@ -36,33 +37,38 @@ I combine real-world operational experience with technology to automate processe
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 
 **Database**
 
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
-**Tools**
+**Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
+- 🎬 **[CineMatch](https://github.com/lucas-ofonseca/CineMatch)**  
+  Movie recommendation system with an SVD model (RMSE 0.9078) and cosine similarity explainability. Complete pipeline including EDA, model training, REST API (FastAPI), and interactive frontend (Streamlit).
+
 - 📦 **Inventory Insights Dashboard**  
   Power BI dashboard to track stock accuracy and identify root causes of divergences.
 
 - ⚙️ **Process Automation Scripts**  
-  VBA scripts to eliminate repetitive tasks and improve operational efficiency.
+  VBA and Python scripts to eliminate repetitive tasks and improve operational efficiency.
 
 ---
 
